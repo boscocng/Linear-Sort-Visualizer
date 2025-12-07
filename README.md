@@ -2,9 +2,9 @@
 
 <h2>Demo video/gif/screenshot of test</h2>
 
-<p><b>Demo:</b>
-https://drive.google.com/file/d/16Ba2igNmZklT2_-RMfbma5DWryL6Pmvm/view?usp=sharing<br>
-</p>
+<p><b>Demo:</b></p>
+<video src="videos/demo.mp4" width="600" controls></video>
+
 <br>
 
 <p><b>Testing and Verification:</b></p>
